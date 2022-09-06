@@ -8,9 +8,9 @@ author_profile: true
 Conferences
 ------
 
-* **Samrudhdhi B Rangrej**, Chetan L Srinidhi, James J Clark. Consistency driven Sequential Transformers Attention Model for Partially Observable Scenes, *Computer Vision and Pattern Recognition* (**CVPR**) 2022.
+* **Samrudhdhi B Rangrej**, Chetan L Srinidhi, James J Clark. [Consistency driven Sequential Transformers Attention Model for Partially Observable Scenes](https://openaccess.thecvf.com/content/CVPR2022/papers/Rangrej_Consistency_Driven_Sequential_Transformers_Attention_Model_for_Partially_Observable_Scenes_CVPR_2022_paper.pdf), *Computer Vision and Pattern Recognition* (**CVPR**) 2022.
 
-* Kevin J Liang, **Samrudhdhi B Rangrej**, Vladan Petrovic, Tal Hassner. Few-shot Learning with Noisy Labels, *Computer Vision and Pattern Recognition* (**CVPR**) 2022.
+* Kevin J Liang, **Samrudhdhi B Rangrej**, Vladan Petrovic, Tal Hassner. [Few-shot Learning with Noisy Labels](https://openaccess.thecvf.com/content/CVPR2022/papers/Liang_Few-Shot_Learning_With_Noisy_Labels_CVPR_2022_paper.pdf), *Computer Vision and Pattern Recognition* (**CVPR**) 2022.
 
 * **Samrudhdhi B Rangrej**, James J Clark. [A Probabilistic Hard Attention Model For Sequentially Observed Scenes](https://www.bmvc2021-virtualconference.com/assets/papers/0251.pdf), *British Machine Vision Conference* (**BMVC**) 2021.
 
