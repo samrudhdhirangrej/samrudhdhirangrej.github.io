@@ -19,6 +19,8 @@ Lecturer/Instructor
 
 Breakout Sessions
 ------
+*  Ibtihel Amara, **Samrudhdhi B Rangrej**, Zahra Vaseqi. *Knowledge Distillation through the lense of the capacity gap problem*, WiML Workshop, ICML 2022.
+
 * **Samrudhdhi B Rangrej**, Ibtihel Amara, Zahra Vaseqi. *Fundamentals of Contrastive Learning in Vision*, WiML Workshop, ICML 2021.
 
 * Ines Krissaane, **Samrudhdhi B Rangrej**. *Well-specified Scalable Models with Variational Inference*, WiML Workshop, ICML 2020.
