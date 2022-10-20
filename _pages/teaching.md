@@ -12,6 +12,8 @@ Teaching Assistantships
 
 * ECSE 626: Statistical Computer Vision, McGill University. (Winter 2019, Fall 2020).
 
+* ECE  442: Time Frequency Analysis, IIIT-Hyderabad. (Winter 2017).
+
 Lecturer/Instructor
 ------
 
