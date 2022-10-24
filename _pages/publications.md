@@ -8,7 +8,7 @@ author_profile: true
 Conferences
 ------
 
-* **Samrudhdhi B Rangrej**, Kevin J Liang, Tal Hassner, James J Clark. GliTr: Glimpse Transformers with Spatiotemporal Consistency for Online Action Prediction *Winter Conference on Applications of Computer Vision* (**WACV**) 2023.
+* **Samrudhdhi B Rangrej**, Kevin J Liang, Tal Hassner, James J Clark. [GliTr: Glimpse Transformers with Spatiotemporal Consistency for Online Action Prediction](https://research.facebook.com/publications/glitr-glimpse-transformers-with-spatiotemporal-consistency-for-online-action-prediction/), *Winter Conference on Applications of Computer Vision* (**WACV**) 2023.
 
 * **Samrudhdhi B Rangrej**, Chetan L Srinidhi, James J Clark. [Consistency driven Sequential Transformers Attention Model for Partially Observable Scenes](https://openaccess.thecvf.com/content/CVPR2022/papers/Rangrej_Consistency_Driven_Sequential_Transformers_Attention_Model_for_Partially_Observable_Scenes_CVPR_2022_paper.pdf), *Computer Vision and Pattern Recognition* (**CVPR**) 2022.
 
